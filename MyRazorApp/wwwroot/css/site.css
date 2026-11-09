@@ -36,3 +36,12 @@ body {
 .textBold {
   font-weight: bold;
 }
+.generalSmallPadding {
+  padding: 10px;
+}
+.generalMidPadding {
+  padding: 25px;
+}
+.generalLargePadding {
+  padding: 50px;
+}
